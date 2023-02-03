@@ -1,3 +1,4 @@
+
 source: https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/
 
 
